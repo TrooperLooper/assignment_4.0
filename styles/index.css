@@ -1,12 +1,112 @@
-h3 {
-    font-family: "Montserrat"
-    font-weight: <bold>;
+.logo {
+    font-family: "Montserrat";
+    font-optical-sizing: auto;
+    font-weight: <700>;
     font-size: 30px;
-    font-style: normal;
+    line-height: 76px%
+    color: #0A1B32;
+    letter-spacing: -0.02em;
+    
+}
+
+.dot {
+    color: #FC569A;
+    font-family: "Montserrat";
+    font-optical-sizing: auto;
+    font-weight: <700>;
+    font-size: 30px;
+    line-height: 160%
     color: #0A1B32;
     letter-spacing: -0.02em;
 }
 
-.dot {
-        color: #FC569A;
+.headline {
+max-width: 495px;
+width: 100%;
+margin-top: 209px;
+margin-left: 200px;
+font-family: "Ramaraja", serif;
+font-size: 72px;
+line-height: 76px
+color: #0A1B32;
+letter-spacing: -0.02em;
 }
+
+
+
+.main-text {
+    max-width: 583px;
+    width: 100%;
+    color: #9A9A9A;
+    margin-top: 0px;
+    margin-left: 200px;
+    text-align: left;
+    font-family: "Roboto";
+    font-size: 20px;
+    line-height: 32px
+    font-optical-sizing: auto;
+    font-weight: <Regular>;
+    font-style: normal;
+    font-size: 20px
+    font-variation-settings;
+}
+
+section {
+display: inline-block;}
+
+
+nav {
+    margin-top: 37px;
+    margin-left: 80px;
+    text-align: left;
+    font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <Regular>;
+    font-style: normal;
+    font-size: 20px
+    font-variation-settings;
+    color: #1B0A42;
+    
+li {
+    padding: 14px 16px;
+}
+    
+}
+
+.home-button  {
+    background-color: #FC569A;
+    color: white;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <Regular>;
+    font-style: normal;
+    font-size: 16px
+    line-height: 32px
+    font-variation-settings;
+    margin-top: 30px;
+    margin-left: 200px;
+    border: none;
+}
+
+.sign-inbtn {
+    background-color: #FC569A;
+    color: white;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <Regular>;
+    font-style: normal;
+    font-size: 16px
+    line-height: 32px
+    font-variation-settings;
+    margin-top: 51px;
+    margin-right: 30px;
+    border: none;
+}
+
+
